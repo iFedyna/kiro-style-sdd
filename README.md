@@ -14,7 +14,7 @@ This approach ensures thorough planning before coding begins, reducing developme
 
 ## Repository Structure
 
-```
+```text
 kiro-style-sdd/
 ├── README.md          # This file
 ├── spec.md           # Phase 1: Requirements gathering prompt
@@ -52,7 +52,7 @@ Replace `your_project_name` with a descriptive name for your feature or applicat
 
 **Example interaction:**
 
-```
+```text
 User: [Paste spec.md content]
 User: I want to build a task management app with real-time collaboration
 
@@ -91,7 +91,7 @@ Once you have all three documents (requirements.md, design.md, tasks.md):
 
 **Example:**
 
-```
+```text
 User: [Paste implement.md content]
 User: Please implement task 2.1 from the tasks in /path/to/specs/my_project/
 ```
